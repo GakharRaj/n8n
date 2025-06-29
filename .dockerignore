@@ -13,7 +13,7 @@ packages/**/*.test.*
 !.github/scripts
 *.tsbuildinfo
 docker/compose
-docker/**/Dockerfile
+# docker/**/Dockerfile
 .vscode
 cypress
 test-workflows
